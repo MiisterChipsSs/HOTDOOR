@@ -1,24 +1,27 @@
-# HOTDOOR
+# PROJECT HOTDOOR
 HOT DOOR
-Elouan Gamejam Twitch 
-Lancé le 28/02/2018
+DindonMignon's GameJam 2018 
+Started on 2/27/18
 
-- Jeux 2D
-- Unity
+TAGS:
+Unity / TwitchJam / 2D / Collaboration / OpenSource
 
-Concept
-Un personnage qui avance de pièce en pièce pour (pas d'objectif). Chaque porte amène sur un challenge / défie avec 10 salles.
+Concept:
+Make a game during streams with viewers' ideas.
 
-GFX
-Mayumi 
+HOTDOOR's concept:
+You are the protagonist. You will choose one of the two door in front of you and will be confronted with mini-games. 10 Levels and a Final-Boss.
 
-Dev
-Elouan 
+Staff Roll:
+Elouan "Dindon Mignon" - Developper
+Morgan "Mayumi" - GFX
+Mathéo "MrChips" - GitHub Manager
 
-Idée en place
-Un chalenge pop-up avec des Sandra chaude de ta région qui faut fermer.
-Personnage qui serrait un dindon
+CHANGELOG:
+2/27/18 - Jam started, final boss choosen (Sandra's Pop-Up).
 
-Ce poste sera édit le plus possible en fonction de l'avancement
+This file will be update often.
 
-discord : https://discord.gg/CkcyVXP
+Join Us on Discord : https://discord.gg/CkcyVXP
+
+LJDE Team-
