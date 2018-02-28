@@ -10,10 +10,10 @@ Concept
 Un personnage qui avance de pièce en pièce pour (pas d'objectif). Chaque porte amène sur un challenge / défie avec 10 salles.
 
 GFX
-@mayumi 
+Mayumi 
 
 Dev
-@Elouan 
+Elouan 
 
 Idée en place
 Un chalenge pop-up avec des Sandra chaude de ta région qui faut fermer.
