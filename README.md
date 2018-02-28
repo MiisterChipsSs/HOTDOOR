@@ -20,3 +20,5 @@ Un chalenge pop-up avec des Sandra chaude de ta région qui faut fermer.
 Personnage qui serrait un dindon
 
 Ce poste sera édit le plus possible en fonction de l'avancement
+
+discord : https://discord.gg/CkcyVXP
