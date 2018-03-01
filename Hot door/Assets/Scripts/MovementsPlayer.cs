@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MovementsPlayer : MonoBehaviour
 {
@@ -24,11 +25,15 @@ public class MovementsPlayer : MonoBehaviour
         //Applique le mouvement
         transform.Translate(direction);
     }
+
     void OnTriggerEnter2D(Collider2D other)
     {
-        //Envoie un message dès qu'il détecte une collision avec qqch
-        Debug.Log("I hit : " + other.name );
+        if (other.tag == "Door")
+        {
+            //Envoie un message dès qu'il détecte une collision avec qqch
+            Debug.Log("I hit : " + other.tag);
+            SceneManager.LoadScene("Menu", LoadSceneMode.Single);
+        }
     }
-
 
 }
